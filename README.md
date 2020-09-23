@@ -4,19 +4,13 @@
 
 ## 💁🏼‍♂️ About
 
-Backend gopher, basically sitting in a cloud. ☁️
-
-I play 🎸 🎹 🥁
-
-and 🛹 🏄‍♂️ 🏋🏻‍♂️ ⛷
-
-
-## 📈 Stats
+Backend gopher, sitting in a cloud.
+Casually playing instruments, skating, surfing, skiing and working out.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrpersona&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Piotr Persona's github stats](https://github-readme-stats.vercel.app/api?username=piotrpersona)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔧 My stack
+## 🔧 Stack
 
 ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
