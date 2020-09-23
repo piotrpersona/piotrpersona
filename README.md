@@ -1,4 +1,6 @@
-# Welcome to my Github! 🎉
+<center>
+<h1>Welcome to my Github! 🎉</h1>
+
 
 ![Dancing Gopher](https://camo.githubusercontent.com/01ee857f12b45ddd41369434b2954ba463c5b29e/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f70617274792d676f706865722e676966)
 
@@ -48,6 +50,8 @@ Casually playing music, skating and surfing.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 ![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
+
+</center>
 
 ---
 <p align="center">
