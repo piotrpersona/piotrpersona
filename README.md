@@ -22,33 +22,26 @@ Casually playing music, skating and surfing.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-white?style=flat-square&logo=neo4j)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
-![Logstash](https://img.shields.io/badge/-Logstash-black?style=flat-square&logo=logstash)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
+![ElasticSearch](https://img.shields.io/badge/-elastic-white?style=flat-square&logo=elastic)
+![Kafka](https://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apache-kafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-white?style=flat-square&logo=rabbitmq)
 
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-k8s-white?style=flat-square&logo=kubernetes)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-white?style=flat-square&logo=digitalocean)
 ![Azure](https://img.shields.io/badge/-Azure-white?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud)
-![Helm](https://img.shields.io/badge/-Helm-black?style=flat-square&logo=helm)
-![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
-![Kong](https://img.shields.io/badge/-Kong-black?style=flat-square&logo=kong)
+![Helm](https://img.shields.io/badge/-Helm-white?style=flat-square&logo=helm)
+![Prometheus](https://img.shields.io/badge/-Prometheus-white?style=flat-square&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-white?style=flat-square&logo=grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-white?style=flat-square&logo=nginx)
+![Kong](https://img.shields.io/badge/-Kong-white?style=flat-square&logo=kong)
 
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circleci)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
+![CircleCI](https://img.shields.io/badge/-CircleCI-white?style=flat-square&logo=circleci)
 ![GithubActions](https://img.shields.io/badge/-GithubActions-white?style=flat-square&logo=github-actions)
 ![TravisCI](https://img.shields.io/badge/-TravisCI-white?style=flat-square&logo=travis)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
-![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
 
 ---
 <p align="center">
