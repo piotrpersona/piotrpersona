@@ -42,3 +42,6 @@ Casually playing music, skating and surfing.
 ![CircleCI](https://img.shields.io/badge/-CircleCI-white?style=flat-square&logo=circleci)
 ![GithubActions](https://img.shields.io/badge/-GithubActions-white?style=flat-square&logo=github-actions)
 ![TravisCI](https://img.shields.io/badge/-TravisCI-white?style=flat-square&logo=travis)
+
+## Checkout my pinned repos
+## 👇🏻 👇🏻 👇🏻
