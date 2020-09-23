@@ -42,9 +42,3 @@ Casually playing music, skating and surfing.
 ![CircleCI](https://img.shields.io/badge/-CircleCI-white?style=flat-square&logo=circleci)
 ![GithubActions](https://img.shields.io/badge/-GithubActions-white?style=flat-square&logo=github-actions)
 ![TravisCI](https://img.shields.io/badge/-TravisCI-white?style=flat-square&logo=travis)
-
----
-<p align="center">
-	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/piotrpersona.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/piotr-persona-105a90147/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
