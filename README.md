@@ -5,7 +5,7 @@
 ## 💁🏼‍♂️ About
 
 Backend gopher, sitting in a cloud.
-Casually playing instruments, skating, surfing, skiing and working out.
+Casually playing music, skating and surfing.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrpersona&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Piotr Persona's github stats](https://github-readme-stats.vercel.app/api?username=piotrpersona)](https://github.com/anuraghazra/github-readme-stats)
