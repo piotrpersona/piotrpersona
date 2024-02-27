@@ -1,8 +1,6 @@
 
 # Welcome to my Github! 🎉
 
-![Dancing Gopher](https://camo.githubusercontent.com/01ee857f12b45ddd41369434b2954ba463c5b29e/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f70617274792d676f706865722e676966)
-
 ## 💁🏼‍♂️ Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrpersona&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
